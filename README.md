@@ -11,7 +11,7 @@ You can use the provided token to make requests to the Density API on behalf of 
 
 This is a read-only token: `tok_KOcggRz4zULjCXCLHUkmRamnv1KLNnSxEzhTUDpqswL`
 
-The API documentation for Density can be found at ![Density API Docs](https://docs.density.io/v2/). 
+The API documentation for Density can be found at [Density API Docs](https://docs.density.io/v2/). 
 
 ## Assignment
 
